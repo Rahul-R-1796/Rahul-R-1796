@@ -22,7 +22,7 @@ AI Engineer with 2+ years of experience delivering production-grade LLM systems,
 
 I'm currently open to new opportunities and eager to contribute to meaningful AI-driven projects.
 
-[![Resume](https://img.shields.io/badge/Rahul%20-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://drive.google.com/drive/u/2/folders/1sKveQ0XOYV6U3mMzCMdK2T79eK5VUen9)
+[![Resume](https://img.shields.io/badge/Rahul%20-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)]
 
 <br/>
 
