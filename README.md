@@ -157,6 +157,7 @@ PSG College of Technology, Coimbatore
 ## 📜 Certifications
 
 - **Programming in Python Basics** — Coursera
+- **MERN Full Stack Developer** — HCL GUVI GEEK
 
 <br/>
 
